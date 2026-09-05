@@ -80,6 +80,6 @@ https://github.com/deepakkumarsahu1920-del/Password-generator-
 
 Live Hosted Project:
 
-https://YourUsername.github.io/Password-Generator/
+https://deepakkumarsahu1920-del/Password-Generator/
 
-Replace `YourUsername` with your GitHub username.
+Replace `deepakkumarsahu1920-del` with your GitHub username.
