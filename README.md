@@ -76,7 +76,7 @@ To deploy using GitHub Pages:
 
 GitHub Repository:
 
-https://github.com/YourUsername/Password-Generator
+https://github.com/deepakkumarsahu1920-del/Password-generator-
 
 Live Hosted Project:
 
